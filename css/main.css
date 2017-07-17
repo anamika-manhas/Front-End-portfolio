@@ -30,3 +30,9 @@ hr{
   background-color:#BCBBBB;
   size: 10;
 }
+.text-img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
